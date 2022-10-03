@@ -18,7 +18,7 @@
   - [🎁  باشگاه مشتریان | Customer club](#:gift:-Login)
 
 
-<div dir="ltr">
+<div dir="rtl">
 
 ***
 
